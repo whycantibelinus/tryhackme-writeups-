@@ -1,0 +1,31 @@
+# TryHackMe — Offensive Security Intro
+**Room:** Offensive Security Intro  
+**Platform:** TryHackMe  
+**Date completed:** 2025-09-XX  
+**Time to complete:** ~15–30 minutes  
+**Link:** https://tryhackme.com/room/offensivesecurityintro
+
+## Objective
+Short: Learn core offensive security concepts and complete lab exercises in a legal environment.
+
+## Tools used
+- TryHackMe web console
+- nmap (lab)
+- basic Linux commands (cat, curl, etc.)
+
+## Methodology (high-level)
+1. Read the room tasks and identify the objective.
+2. Enumerated the visible endpoints / inputs as prompted.
+3. Used built-in lab utilities and OS commands to answer questions and validate results.
+4. Captured screenshots of completed tasks and console output as proof.
+
+## Proof of completion
+- See `screenshots/` for images showing successful task outputs and flags.
+
+## Key takeaways
+- Example: “How directory enumeration looks and how defenders see it in logs.”
+- Example: “Fundamentals of responsible testing and legal boundaries.”
+
+## Ethics note
+All testing performed only in TryHackMe’s isolated environment. I do not test production systems without explicit written permission.
+
